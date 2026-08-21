@@ -8,7 +8,7 @@
 - Data Modeling
 - Pivot Table
 - Power Query
-- Business Terms
+- Sales Terms
 - Creating Professional Reports
 - And so.
 
