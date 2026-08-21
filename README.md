@@ -2,7 +2,7 @@
 
 ## AtliQ Hardware company's Sales Analysis
 
-### This Sales Analytics project teach me :
+### This Sales Analytics project teach me:
 - Data Cleaning 
 - Data Extraction 
 - Data Modeling
